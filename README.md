@@ -18,7 +18,7 @@ Projeto desenvolvido com tecnologias WEB.
 <br>
 
 <p align="center">
-  <img alt="tela principal" src=".github/preview.jpg" width="100%">
+  <img alt="tela principal" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
